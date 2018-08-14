@@ -1,0 +1,5 @@
+1 	Dallas Cowboys 	493 	367 	6 	.573 	1960 	866 	NFC East
+2 	Green Bay Packers 	730 	553 	37 	.567 	1921 	1,320 	NFC North
+3 	Chicago Bears 	744 	568 	42 	.565 	1920 	1,354 	NFC North
+4 	Miami Dolphins 	439 	341 	4 	.563 	1966 	784 	AFC East
+5 	New England Patriots 	476 	383 	9 	.554 	1960 	868 	AFC East
