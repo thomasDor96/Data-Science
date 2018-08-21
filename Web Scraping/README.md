@@ -1,3 +1,5 @@
-### Intro Web Scraping: https://www.dataquest.io/blog/web-scraping-tutorial-python/
+### Intro Web Scraping: 
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
-### https://www.dataquest.io/blog/web-scraping-beautifulsoup/
+### Applications of Web Scraping
+https://www.dataquest.io/blog/web-scraping-beautifulsoup/
