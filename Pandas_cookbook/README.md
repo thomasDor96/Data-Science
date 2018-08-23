@@ -8,5 +8,9 @@ https://www.dataquest.io/blog/machine-learning-preparing-data/
 https://chrisalbon.com/python/data_wrangling/pandas_create_column_with_loop/
 
 
+### Ties de Kok: Data Handling
+https://nbviewer.jupyter.org/github/TiesdeKok/LearnPythonforResearch/blob/master/2_handling_data.ipynb#reshaping-pivot
+
+
 ### Row Iteration
 http://www.cs.uoi.gr/~tsap/teaching/2016-cse012/slides/Intro-to-Pandas.html
