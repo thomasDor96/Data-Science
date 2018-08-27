@@ -8,7 +8,7 @@ https://www.dataquest.io/blog/machine-learning-preparing-data/
 https://chrisalbon.com/python/data_wrangling/pandas_create_column_with_loop/
 
 
-### Ties de Kok: Data Handling
+### Ties de Kok (cookbook_15): Data Handling
 https://nbviewer.jupyter.org/github/TiesdeKok/LearnPythonforResearch/blob/master/2_handling_data.ipynb#reshaping-pivot
 
 
