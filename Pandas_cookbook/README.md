@@ -17,3 +17,7 @@ https://nbviewer.jupyter.org/github/WillKoehrsen/machine-learning-project-walkth
 
 ### Row Iteration
 http://www.cs.uoi.gr/~tsap/teaching/2016-cse012/slides/Intro-to-Pandas.html
+
+
+### Converting DataTime object
+https://www.datacamp.com/community/tutorials/converting-strings-datetime-objects
